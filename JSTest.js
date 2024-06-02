@@ -23,7 +23,7 @@ function mintNFT (_name, _artist, _color,_year) {
         year: _year 
     };
     NFTsData.push(nft);
-    console.log("\nNFT created....!!!");
+    console.log("\nMinted successfully....!!!");
 }
 
 // create a "loop" that will go through an "array" of NFT's
